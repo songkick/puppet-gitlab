@@ -10,7 +10,7 @@
     "requirements": [
         {
             "name": "puppet",
-            "version_requirement": "3.x"
+            "version_requirement": "2.7.x"
         }
     ],
     "operatingsystem_support": [
